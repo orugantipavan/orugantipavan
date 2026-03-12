@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Oruganti Pavan 👋
+   B.Tech in Computer Science
+   Hyderabad, Telangana, India
 
-<!--
-**orugantipavan/orugantipavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me💬
+I am passionate about Artificial Intelligence and Machine Learning.
+Currently learning and building ML models from scratch using Python and NumPy
 
-Here are some ideas to get you started:
+## Skills
+-Python
+-NumPy
+-Pandas
+-Scikit-learn
+-Machine Learning
+-Data Analysis
+-Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning🌱 
+-Logsitic Regression
+-Polynomial Regression
+-Model Evaluation
+-Real-World Datasets
+
+## Projects
+-Machine Learning Algorithms from Scratch
+-CO2 Emission Prediction Model
+-Logistic Regression Classifier
+
+## Github Projects
+Check my repositories below for ML implementations and experiments.
+
+## Contact
+📫Email: orugantipavan21@gmail.com
+📫LinkedIn: https:/www.linkedin.com/in/pavan-oruganti
