@@ -30,3 +30,9 @@ Currently learning and implementing Machine Learning algorithms from scratch usi
 📫Email: orugantipavan21@gmail.com
 📫LinkedIn:
 https:/www.linkedin.com/in/pavan-oruganti
+
+## GitHub Stats
+![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=orugantipavan&show_icons=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orugantipavan&layout=compact)
