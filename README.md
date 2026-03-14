@@ -4,31 +4,29 @@
 
 ## About Me💬
 I am passionate about Artificial Intelligence and Machine Learning.
-Currently learning and building ML models from scratch using Python and NumPy
+Currently learning and implementing Machine Learning algorithms from scratch using Python and NumPy.
 
-## Skills
+## Technical Skills
 -Python
 -NumPy
 -Pandas
--Scikit-learn
 -Machine Learning
 -Data Analysis
--Git & GitHub
+-Git
+-GitHub
+
+## Machine Learning Projects
+-Linear Regression from Scratch
+-Polynomial Regression Model
+-Logistic Regression Classifier
+-CO2 Emission Prediction Model (Real Dataset)
 
 ## Current Learning🌱 
--Logsitic Regression
--Polynomial Regression
--Model Evaluation
--Real-World Datasets
-
-## Projects
--Machine Learning Algorithms from Scratch
--CO2 Emission Prediction Model
--Logistic Regression Classifier
-
-## Github Projects
-Check my repositories below for ML implementations and experiments.
+-Model Evaluation (MSE, R2 Score)
+-Classification Alogrithms
+-Real-World ML datasets
 
 ## Contact
 📫Email: orugantipavan21@gmail.com
-📫LinkedIn: https:/www.linkedin.com/in/pavan-oruganti
+📫LinkedIn:
+https:/www.linkedin.com/in/pavan-oruganti
