@@ -8,50 +8,62 @@
 
 ## 🚀About Me💬
 
-▫️💠Passionate about Artificial Intelligence and Machine Learning
+🔸Passionate about Artificial Intelligence and Machine Learning
 
-💠Currently learning Machine Learning algorithms and Deep Learning
+🔸Currently learning Machine Learning Algorithms and Deep Learning
 
-💠Building AI projects and sharing them on GitHub
+🔸Building AI projects and sharing them on GitHub
 
-💠Interested in AI research, data science and intelligent systems
+🔸Interested in AI research, data science and intelligent systems
 
 ## 🧠Technical Skills
 
-💠Python
+🔸Python
 
-💠NumPy
+🔸NumPy
 
-💠Pandas
+🔸Pandas
 
-💠Scikit-learn
+🔸Scikit-learn
 
-💠Machine Learning Algorithms
+🔸Machine Learning Algorithms
 
-💠Data Analysis
+🔸Data Analysis
 
-💠Model Evaluation
+🔸Model Evaluation
 
 ## 📊 Machine Learning Projects
-⚫Iris Classification ML Project
+
+🔸Iris Classification ML Project
+
 🔸Breast Cancer Detection Model
-◾House price Prediction Model
-▪️Logistic Regression Classifier
-🔻CO2 Emission Prediction Model (Real Dataset)
+
+🔸House price Prediction Model
+
+🔸Logistic Regression Classifier
+
+🔸CO2 Emission Prediction Model (Real Dataset)
 
 ## Tools and Technologies
--Python
--Jupyter Notebook
--Git
--Github
--VS Code
+
+🔸Python
+
+🔸Jupyter Notebook
+
+🔸Git
+
+🔸Github
+
+🔸VS Code
 
 ## Connect With Me
+
 📫Email: orugantipavan21@gmail.com
+
 📫LinkedIn:
 https:/www.linkedin.com/in/pavan-oruganti
 
-Always learning and bulding AI Projects
+⭐Always learning and bulding AI Projects
 
 ## GitHub Stats
 ![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=orugantipavan&show_icons=true)
