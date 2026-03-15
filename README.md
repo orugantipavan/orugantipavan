@@ -1,6 +1,6 @@
 ## 👋Hi, I'm Oruganti Pavan 
 
-💻Aspiring AI / Machine Learning engineer
+💻Aspiring AI / Machine Learning Engineer
 
 🎓B.Tech in Computer Science Engineering
 
