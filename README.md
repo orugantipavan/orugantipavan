@@ -63,8 +63,8 @@
 📫LinkedIn:
 https:/www.linkedin.com/in/pavan-oruganti
 
-
-⭐Always learning and bulding AI Projects
+##
+⭐Always learning and building AI Projects
 
 ## GitHub Stats
 ![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=orugantipavan&show_icons=true)
