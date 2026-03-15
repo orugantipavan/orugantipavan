@@ -1,11 +1,14 @@
 ## 👋Hi, I'm Oruganti Pavan 
+
 💻Aspiring AI / Machine Learning engineer
+
 🎓B.Tech in Computer Science Engineering
+
 📍Hyderabad, Telangana, India
 
 ## 🚀About Me💬
 
-💠Passionate about Artificial Intelligence and Machine Learning
+▫️💠Passionate about Artificial Intelligence and Machine Learning
 
 💠Currently learning Machine Learning algorithms and Deep Learning
 
