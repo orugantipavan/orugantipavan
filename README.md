@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Oruganti Pavan
-   Aspiring AI / Machine Learning engineer
-   B.Tech in Computer Science Engineering
+   #Aspiring AI / Machine Learning engineer
+   #B.Tech in Computer Science Engineering
    Hyderabad, Telangana, India
 
 ## About Me💬
