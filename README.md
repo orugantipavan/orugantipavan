@@ -6,7 +6,7 @@
 
 📍Hyderabad, Telangana, India
 
-## 🚀About Me💬
+## 🚀About Me
 
 🔸Passionate about Artificial Intelligence and Machine Learning
 
