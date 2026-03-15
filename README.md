@@ -1,35 +1,43 @@
-## Hi, I'm Oruganti Pavan 👋
-   B.Tech in Computer Science
+## 👋 Hi, I'm Oruganti Pavan
+   Aspiring AI / Machine Learning engineer
+   B.Tech in Computer Science Engineering
    Hyderabad, Telangana, India
 
 ## About Me💬
-I am passionate about Artificial Intelligence and Machine Learning.
-Currently learning and implementing Machine Learning algorithms from scratch using Python and NumPy.
+Passionate about Artificial Intelligence and Machine Learning
+Currently learning Machine Learning algorithms and Deep Learning
+Building AI projects and sharing them on GitHub
+Interested in AI research, data science and intelligent systems
 
 ## Technical Skills
 -Python
 -NumPy
 -Pandas
--Machine Learning
+-Scikit-learn
+-Machine Learning Algorithms
 -Data Analysis
--Git
--GitHub
+-Model Evaluation
 
 ## Machine Learning Projects
--Linear Regression from Scratch
--Polynomial Regression Model
+-Iris Classification ML Project
+-Breast Cancer Detection Model
+-House price Prediction Model
 -Logistic Regression Classifier
 -CO2 Emission Prediction Model (Real Dataset)
 
-## Current Learning🌱 
--Model Evaluation (MSE, R2 Score)
--Classification Alogrithms
--Real-World ML datasets
+## Tools and Technologies
+-Python
+-Jupyter Notebook
+-Git
+-Github
+-VS Code
 
-## Contact
+## Connect With Me
 📫Email: orugantipavan21@gmail.com
 📫LinkedIn:
 https:/www.linkedin.com/in/pavan-oruganti
+
+Always learning and bulding AI Projects
 
 ## GitHub Stats
 ![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=orugantipavan&show_icons=true)
