@@ -30,11 +30,11 @@
 💠Model Evaluation
 
 ## 📊 Machine Learning Projects
--⚫Iris Classification ML Project
--Breast Cancer Detection Model
--House price Prediction Model
--Logistic Regression Classifier
--CO2 Emission Prediction Model (Real Dataset)
+⚫Iris Classification ML Project
+🔸Breast Cancer Detection Model
+◾House price Prediction Model
+▪️Logistic Regression Classifier
+🔻CO2 Emission Prediction Model (Real Dataset)
 
 ## Tools and Technologies
 -Python
